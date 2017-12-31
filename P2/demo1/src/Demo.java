@@ -1,11 +1,12 @@
 
 enum D
 {
-    A, B, C;
+    A, B, C, C2;
 
     private D()
     {
-        System.out.print("*");
+
+        System.out.print("run-");
     }
 }
 
