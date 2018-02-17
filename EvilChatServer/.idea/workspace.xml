@@ -17,8 +17,8 @@
       <file leaf-file-name="Server.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChatServer/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="395">
+              <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -368,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518903204098</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class Server&#10;End lesson40 chatroom">
+      <created>1518903462718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1518903462718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -410,7 +417,8 @@
     <MESSAGE value="config modules chat" />
     <MESSAGE value="config modules chat1" />
     <MESSAGE value="Class Server edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Server edited" />
+    <MESSAGE value="Class Server&#10;End lesson40 chatroom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Server&#10;End lesson40 chatroom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -427,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChatServer/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="395">
+          <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

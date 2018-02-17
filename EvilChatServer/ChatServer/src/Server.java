@@ -1,3 +1,5 @@
+import com.sun.deploy.panel.JSmartTextArea;
+
 import java.io.*;
 import java.net.*;
 import java.awt.*;
@@ -30,4 +32,30 @@ public class Server extends JFrame {
     // ip+port
     private Socket connection;
 
+    // constructor
+    public Server(){
+        // подписив окно
+        super("Серверная часть");
+        userInputText = new JTextField();
+        userInputText.setEditable(false); // off edit
+
+        // слушатель ввода
+        userInputText.addActionListener(
+            new ActionListener() {
+                @Override
+                public void actionPerformed(ActionEvent e){
+                    sendMessage(e.getActionCommand());
+                    userInputText.setText(""); //чистим поле после передачи
+                }
+            }
+        );
+        // помещаем текст в окно
+        add(userInputText,BorderLayout.NORTH);
+        chatWindow = new JSmartTextArea();
+        add(new JScrollPane(chatWindow));
+        setSize(300,600);
+        setVisible(true);
+
+
+    }
 }
