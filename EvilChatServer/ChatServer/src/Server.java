@@ -26,5 +26,8 @@ public class Server extends JFrame {
     private ObjectInputStream inputStream;
 
     //
+    private ServerSocket serverSocket;
+    // ip+port
+    private Socket connection;
 
 }
