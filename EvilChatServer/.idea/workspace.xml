@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8da0cfc-43f0-483a-96bd-cf9f13ae573c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChatClient/ChatClient.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ChatServer/ChatServer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Client/Client.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/srv/srv.iml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -327,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518900927767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="config modules chat">
+      <created>1518901412102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518901412102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -365,7 +370,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start srv evilnerd" />
-    <option name="LAST_COMMIT_MESSAGE" value="start srv evilnerd" />
+    <MESSAGE value="config modules chat" />
+    <option name="LAST_COMMIT_MESSAGE" value="config modules chat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
