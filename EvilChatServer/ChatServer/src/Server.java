@@ -83,5 +83,6 @@ public class Server extends JFrame {
         }
     }
 
-    // home 12
+    // метод для реализации ожидания соединения от клиентов
+
 }
