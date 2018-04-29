@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>MAVEN</ID>
+  <OriginalElement>userpass:userpass:1.0-SNAPSHOT</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">userpass:userpass:1.0-SNAPSHOT</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="42.5" y="15.5" />
+  <SelectedNodes>
+    <node>userpass:userpass:1.0-SNAPSHOT</node>
+  </SelectedNodes>
+  <Categories />
+  <VISIBILITY>All</VISIBILITY>
+</Diagram>
+
