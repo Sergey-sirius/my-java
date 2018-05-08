@@ -1,0 +1,9 @@
+контейнер отдающий статику web
+
+по контексту мы определяем к какому варнику обращаемся
+
+web.xml главный конфигур файл
+spring-config.xml  конфигурационный спринга  связи между модулями: контроллер, сервис, дао
+
+spring dependency injection ioc  - слабая связь
+дока http://spring-projects.ru/guides/lessons/lesson-2/
